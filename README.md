@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React applications<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning about web and mobile development
+🔭 I’m currently working on React applications<br>👯
 
 
 ## 🌐 Socials:
